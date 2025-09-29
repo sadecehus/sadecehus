@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Kocatürk</h1>
-<h3 align="center">passionate developer from Turkey 🇹🇷</h3>
+<h3 align="center">Passionate developer from Turkey 🇹🇷</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadecehus/sadecehus/output/github-contribution-grid-snake-dark.svg">
@@ -7,9 +7,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sadecehus/sadecehus/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadecehus&label=Profile%20views&color=0e75b6&style=flat" alt="sadecehus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadecehus" alt="sadecehus" /></a> </p>
 
 - 🔭 I'm currently working on **FRONTEND DEVELOPMENT**
 
