@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Kocatürk</h1>
-<h3 align="center">Passionate developer from Turkey 🇹🇷</h3>
+<h3 align="center">Passionate Software Engineer from Turkey 🇹🇷</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadecehus/sadecehus/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +8,7 @@
 </picture>
 
 
-- 🔭 I'm currently working on **FRONTEND DEVELOPMENT**
+- 🔭 I'm currently working on **Backend Development - SQL**
 
 - 🌱 I'm currently learning **.NET MVC AND .NET WEBAPİ**
 
