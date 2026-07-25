@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on **Backend Development - SQL**
 
-- 🌱 I'm currently learning **.NET MVC AND .NET WEBAPİ**
+- 🌱 I'm currently learning **Cyber Security , Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadecehus/Portfolio-Github](https://github.com/sadecehus/Portfolio-Github)
 
